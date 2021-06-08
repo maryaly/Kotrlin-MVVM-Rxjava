@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VosuqKotlin</string>
+    <string name="symbol">Symbol</string>
+    <string name="basecurrencyshortname">BaseCurrencyShortName</string>
+    <string name="provideliquidityrate">ProvideLiquidityRate</string>
+    <string name="ticksize">TickSize</string>
+    <string name="takeliquidityrate">TakeLiquidityRate</string>
+    <string name="quotecurrencyshortname">QuoteCurrencyShortName</string>
+    <string name="quantityincrement">QuantityIncrement</string>
+</resources>
